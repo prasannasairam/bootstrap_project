@@ -1,0 +1,35 @@
+/*section {
+    background: #fff;
+    width: 30%;
+    margin: 10px;
+}
+section img {
+    width: 100%;
+}
+button {
+    background-color: #007bff;
+    border-color: #007bff;
+    color: white;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 6px;
+    margin: 10px;
+}*/
+span.time {
+    background: red;
+    display: inline-block;
+    position: absolute;
+    right: 8px;
+    top: 7px;
+    color: #fff;
+    padding: 3px 7px;
+    border-radius: 5px;
+    opacity: 0.5;
+}
+/*span.snaptext {
+padding: 3px 6px;
+border-radius: 2px;
+color: #fff;
+border: 1px solid greenyellow;
+}
+
